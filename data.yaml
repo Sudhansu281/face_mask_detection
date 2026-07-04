@@ -1,0 +1,11 @@
+path: dataset
+
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 2
+
+names:
+  0: without_mask
+  1: with_mask
