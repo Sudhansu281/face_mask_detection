@@ -88,4 +88,4 @@ elif option == "Webcam Detection":
     if cap is not None:
         cap.release()
 
-# Branch check  
+# Branch check  for second
